@@ -1,5 +1,5 @@
 # smallest_working_performer
-ViTs is hot, performers are hot, so does that make ViP hot? My codes are minimal anyways. 
+ViTs are hot, performers are hot, so does that make ViP hot? My codes are minimal anyways. 
 
 ## Linear - time transformer + ViT = Profit?
 well, I'm trying anyways.
@@ -19,4 +19,5 @@ model = ViP(
 )
 ```
 Example train.py file contains simple MNIST example.
+
 Also, my implementation is short and easy to understand. You're welcome.
