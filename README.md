@@ -2,8 +2,10 @@
 ViTs is hot, performers are hot, so does that make ViP hot? My codes are minimal anyways. 
 
 ## Linear - time transformer + ViT = Profit?
-Implementation of performer from :  https://arxiv.org/pdf/2009.14794.pdf
 well, I'm trying anyways.
+
+Implementation of performer from :  https://arxiv.org/pdf/2009.14794.pdf
+
 Example usage :
 
 ```python
