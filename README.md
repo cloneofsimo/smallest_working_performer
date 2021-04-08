@@ -1,8 +1,8 @@
 # smallest_working_performer
-ViTs are hot, performers are hot, so does that make ViP hot? My codes are minimal anyways. 
+
+Performer and its application on Vision task
 
 ## Linear - time transformer + ViT = Profit?
-well, I'm trying anyways.
 
 Implementation of performer from :  https://arxiv.org/pdf/2009.14794.pdf
 
